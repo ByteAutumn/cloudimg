@@ -1,2 +1,2 @@
 # cloudimg
-png
+个人使用的 图床
